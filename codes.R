@@ -1,0 +1,4 @@
+
+names(mtcars)
+dim(mtcars)
+
